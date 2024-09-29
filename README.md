@@ -1,5 +1,4 @@
 # Automated-Content-Summarizer-for-News-Articles
-This project is a "Personalized News Summarizer" built with Streamlit. Users input preferences (country, category, source, role), and the app uses Googlesearch-Python to retrieve relevant news articles. It scrapes and summarizes articles with BeautifulSoup, and converts summaries into audio using gTTS for easy listening.
 
 This project is a **Personalized News Summarizer Web Application** built using **Streamlit**, designed to provide users with customized news content and summaries. The application allows users to input their preferences, such as country, news category, specific sources, and their role (e.g., student, lawyer), and then uses **Google search** to find relevant news articles based on these inputs.
 
